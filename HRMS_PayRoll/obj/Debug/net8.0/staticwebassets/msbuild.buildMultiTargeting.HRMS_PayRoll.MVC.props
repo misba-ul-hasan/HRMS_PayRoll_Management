@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HRMS_PayRoll.MVC.props" />
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.AggregateRoot\bin\Debug\net8.0\HRMS_PayRoll.AggregateRoot.deps.json
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.AggregateRoot\bin\Debug\net8.0\HRMS_PayRoll.AggregateRoot.dll
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.AggregateRoot\bin\Debug\net8.0\HRMS_PayRoll.AggregateRoot.pdb
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.AggregateRoot\obj\Debug\net8.0\HRMS_PayRoll.AggregateRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.AggregateRoot\obj\Debug\net8.0\HRMS_PayRoll.AggregateRoot.AssemblyInfoInputs.cache
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.AggregateRoot\obj\Debug\net8.0\HRMS_PayRoll.AggregateRoot.AssemblyInfo.cs
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.AggregateRoot\obj\Debug\net8.0\HRMS_PayRoll.AggregateRoot.csproj.CoreCompileInputs.cache
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.AggregateRoot\obj\Debug\net8.0\HRMS_PayRoll.AggregateRoot.dll
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.AggregateRoot\obj\Debug\net8.0\refint\HRMS_PayRoll.AggregateRoot.dll
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.AggregateRoot\obj\Debug\net8.0\HRMS_PayRoll.AggregateRoot.pdb
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.AggregateRoot\obj\Debug\net8.0\ref\HRMS_PayRoll.AggregateRoot.dll
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.AggregateRoot\bin\Debug\net8.0\HRMS_PayRoll.DTO.dll
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.AggregateRoot\bin\Debug\net8.0\HRMS_PayRoll.DTO.pdb
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.AggregateRoot\obj\Debug\net8.0\HRMS_PayRoll.AggregateRoot.csproj.AssemblyReference.cache
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.AggregateRoot\obj\Debug\net8.0\HRMS_Pay.9348082C.Up2Date

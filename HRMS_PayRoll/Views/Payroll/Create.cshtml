@@ -1,0 +1,49 @@
+﻿@model HRMS_PayRoll.AggregateRoot.Entities.Payroll
+@{
+    ViewData["Title"] = "Create Payroll";
+    var EId = ViewData["EmployeeId"];
+    var employee = ViewData["Ëmployee"];
+}
+<h2>@ViewData["Title"]</h2>
+<h1>Payroll for @employee</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post">
+            <input type="hidden" asp-for="EmployeeID" value="@EId" />
+            <div class="form-group">
+                <label asp-for="GrossSalary" class="control-label"></label>
+                <input asp-for="GrossSalary" class="form-control" />
+                <span asp-validation-for="GrossSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OtherDeductions" class="control-label"></label>
+                <input asp-for="OtherDeductions" class="form-control" />
+                <span asp-validation-for="OtherDeductions" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DeductionType" class="control-label"></label>
+                <input asp-for="DeductionType" class="form-control" />
+                <span asp-validation-for="DeductionType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PaymentDate" class="control-label"></label>
+                <input asp-for="PaymentDate" class="form-control" type="date" />
+                <span asp-validation-for="PaymentDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" name="submitButton" value="GeneratePaySlip" class="btn btn-primary">Save and Generate PaySlip</button>
+                <button type="submit" name="submitButton" value="Save" class="btn btn-secondary">Save</button>
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-controller="Employee" asp-action="EmployeeView" class="btn btn-secondary">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

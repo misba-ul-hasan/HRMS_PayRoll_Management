@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HRMS_PayRoll.AggregateRoot\HRMS_PayRoll.AggregateRoot.csproj" />
+    <ProjectReference Include="..\HRMS_PayRoll.DTO\HRMS_PayRoll.DTO.csproj" />
+    <ProjectReference Include="..\HRMS_PayRoll.Repository\HRMS_PayRoll.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

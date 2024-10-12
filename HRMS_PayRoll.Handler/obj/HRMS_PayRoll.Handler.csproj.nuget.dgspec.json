@@ -1,0 +1,299 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.Handler\\HRMS_PayRoll.Handler.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.AggregateRoot\\HRMS_PayRoll.AggregateRoot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.AggregateRoot\\HRMS_PayRoll.AggregateRoot.csproj",
+        "projectName": "HRMS_PayRoll.AggregateRoot",
+        "projectPath": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.AggregateRoot\\HRMS_PayRoll.AggregateRoot.csproj",
+        "packagesPath": "C:\\Users\\misbaul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.AggregateRoot\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\misbaul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.DTO\\HRMS_PayRoll.DTO.csproj": {
+                "projectPath": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.DTO\\HRMS_PayRoll.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.DTO\\HRMS_PayRoll.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.DTO\\HRMS_PayRoll.DTO.csproj",
+        "projectName": "HRMS_PayRoll.DTO",
+        "projectPath": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.DTO\\HRMS_PayRoll.DTO.csproj",
+        "packagesPath": "C:\\Users\\misbaul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\misbaul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.Handler\\HRMS_PayRoll.Handler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.Handler\\HRMS_PayRoll.Handler.csproj",
+        "projectName": "HRMS_PayRoll.Handler",
+        "projectPath": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.Handler\\HRMS_PayRoll.Handler.csproj",
+        "packagesPath": "C:\\Users\\misbaul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.Handler\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\misbaul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.AggregateRoot\\HRMS_PayRoll.AggregateRoot.csproj": {
+                "projectPath": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.AggregateRoot\\HRMS_PayRoll.AggregateRoot.csproj"
+              },
+              "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.DTO\\HRMS_PayRoll.DTO.csproj": {
+                "projectPath": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.DTO\\HRMS_PayRoll.DTO.csproj"
+              },
+              "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.Repository\\HRMS_PayRoll.Repository.csproj": {
+                "projectPath": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.Repository\\HRMS_PayRoll.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.Repository\\HRMS_PayRoll.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.Repository\\HRMS_PayRoll.Repository.csproj",
+        "projectName": "HRMS_PayRoll.Repository",
+        "projectPath": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.Repository\\HRMS_PayRoll.Repository.csproj",
+        "packagesPath": "C:\\Users\\misbaul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\misbaul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.AggregateRoot\\HRMS_PayRoll.AggregateRoot.csproj": {
+                "projectPath": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.AggregateRoot\\HRMS_PayRoll.AggregateRoot.csproj"
+              },
+              "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.DTO\\HRMS_PayRoll.DTO.csproj": {
+                "projectPath": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.DTO\\HRMS_PayRoll.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

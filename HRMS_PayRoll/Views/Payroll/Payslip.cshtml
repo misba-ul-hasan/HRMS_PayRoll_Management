@@ -1,0 +1,81 @@
+﻿@model HRMS_PayRoll.DTO.DTOs.EmployeePaymentDTO
+
+@{
+    ViewData["Title"] = "Pay Slip";
+}
+<h2>Pay Slip</h2>
+
+<h4>Employee: @Model.EmployeeName</h4>
+<hr />
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th colspan="2">Employee Information</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Employee ID:</strong></td>
+            <td>@Model.EmployeeID</td>
+        </tr>
+        <tr>
+            <td><strong>Name:</strong></td>
+            <td>@Model.EmployeeName</td>
+        </tr>
+        <tr>
+            <td><strong>Department:</strong></td>
+            <td>@Model.EmployeeDepartment</td>
+        </tr>
+        <tr>
+            <td><strong>Date of Joining:</strong></td>
+            <td>@Model.EmployeeDateOfJoining.ToString("yyyy-MM-dd")</td>
+        </tr>
+        <tr>
+            <td><strong>National ID Number:</strong></td>
+            <td>@Model.EmployeeNID</td>
+        </tr>
+        <tr>
+            <td><strong>Mobile Number:</strong></td>
+            <td>@Model.EmployeeMobileNumber</td>
+        </tr>
+    </tbody>
+</table>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th colspan="2">Payroll Information</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Payment Date:</strong></td>
+            <td>@Model.EmployeePaymentDate.ToString("yyyy-MM-dd")</td>
+        </tr>
+        <tr>
+            <td><strong>Gross Salary:</strong></td>
+            <td>@Model.EmployeeGrossSalary.ToString("C")</td>
+        </tr>
+        <tr>
+            <td><strong>Tax Deduction:</strong></td>
+            <td>@Model.EmployeeTaxDeduction.ToString("C")</td>
+        </tr>
+        <tr>
+            <td><strong>Other Deductions:</strong></td>
+            <td>@Model.EmployeeOtherDeduction.ToString("C")</td>
+        </tr>
+        <tr>
+            <td><strong>Deduction Type:</strong></td>
+            <td>@Model.EmployeeDeductionType</td>
+        </tr>
+        <tr>
+            <td><strong>Net Salary:</strong></td>
+            <td>@Model.EmployeeNetSalary.ToString("C")</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="form-group">
+    <a asp-controller="Employee" asp-action="EmployeeView" class="btn btn-secondary">Back to List</a>
+    <a asp-controller="Payroll" asp-action="GeneratePaySlipPdf" asp-route-id="@Model.EmployeeID" class="btn btn-primary">Download PaySlip as PDF</a>
+</div> 

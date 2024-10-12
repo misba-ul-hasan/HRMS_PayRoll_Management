@@ -1,0 +1,44 @@
+﻿@model IEnumerable<HRMS_PayRoll.DTO.DTOs.EmployeeDTO>
+
+@{
+    ViewData["Title"] = "EmployeeView";
+}
+
+<h1>EmployeeView</h1>
+
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-primary">Add New Employee</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Department</th>
+            <th>Salary</th>
+            <th>NID Number</th>
+            <th>Mobile Number</th>
+            <th>Date of Joinig</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.EmployeeName)</td>
+                <td>@Html.DisplayFor(modelItem => item.EmployeeDepartment)</td>
+                <td>@Html.DisplayFor(modelItem => item.EmployeeSalary)</td>
+                <td>@Html.DisplayFor(modelItem => item.EmployeeNIDNumber)</td>
+                <td>@Html.DisplayFor(modelItem => item.EmployeeMobileNumber)</td>
+                <td>@Html.DisplayFor(modelItem => item.EmployeeDateOfJoining)</td>
+                <td>
+                    <a asp-controller="Payroll" asp-action="Create" asp-route-id="@item.EmployeeID" class="btn btn-sm btn-info">Create Payroll</a>
+                    <a asp-controller="Payroll" asp-action="PaymentHistory" asp-route-id="@item.EmployeeID" class="btn btn-sm btn-info">PaymentHistory</a>
+                    <a href="@Url.Action("Details", new { id = item.EmployeeID })" class="btn btn-sm btn-info">Details</a>
+                    <a href="@Url.Action("Delete", new { id = item.EmployeeID })" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

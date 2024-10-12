@@ -1,0 +1,11 @@
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.DTO\bin\Debug\net8.0\HRMS_PayRoll.DTO.deps.json
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.DTO\bin\Debug\net8.0\HRMS_PayRoll.DTO.dll
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.DTO\bin\Debug\net8.0\HRMS_PayRoll.DTO.pdb
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.DTO\obj\Debug\net8.0\HRMS_PayRoll.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.DTO\obj\Debug\net8.0\HRMS_PayRoll.DTO.AssemblyInfoInputs.cache
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.DTO\obj\Debug\net8.0\HRMS_PayRoll.DTO.AssemblyInfo.cs
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.DTO\obj\Debug\net8.0\HRMS_PayRoll.DTO.csproj.CoreCompileInputs.cache
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.DTO\obj\Debug\net8.0\HRMS_PayRoll.DTO.dll
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.DTO\obj\Debug\net8.0\refint\HRMS_PayRoll.DTO.dll
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.DTO\obj\Debug\net8.0\HRMS_PayRoll.DTO.pdb
+C:\Users\misbaul\source\repos\HRMS_PayRoll\HRMS_PayRoll.DTO\obj\Debug\net8.0\ref\HRMS_PayRoll.DTO.dll

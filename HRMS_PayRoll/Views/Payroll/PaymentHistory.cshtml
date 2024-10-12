@@ -1,0 +1,32 @@
+﻿@model List<HRMS_PayRoll.AggregateRoot.Entities.Payroll>
+@{
+    var employeeName = ViewData["employeeName"];
+}
+
+<h1>Payment History</h1>
+
+<h2>Employee Name: @employeeName</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Payment Date</th>
+            <th>Gross Salary</th>
+            <th>Tax Deduction</th>
+            <th>Other Deductions</th>
+            <th>Net Salary</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var payroll in Model)
+        {
+            <tr>
+                <td>@payroll.PaymentDate.ToString("yyyy-MM-dd")</td>
+                <td>@payroll.GrossSalary.ToString("C")</td>
+                <td>@payroll.TaxDeduction.ToString("C")</td>
+                <td>@payroll.OtherDeductions.ToString("C")</td>
+                <td>@payroll.NetSalary.ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>

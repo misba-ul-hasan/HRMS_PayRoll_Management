@@ -1,0 +1,73 @@
+﻿@model HRMS_PayRoll.DTO.DTOs.EmployeeDTO
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Employee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="EmployeeName" class="control-label"></label>
+                <input asp-for="EmployeeName" class="form-control" />
+                <span asp-validation-for="EmployeeName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeeDateOfJoining" class="control-label"></label>
+                <input asp-for="EmployeeDateOfJoining" class="form-control" />
+                <span asp-validation-for="EmployeeDateOfJoining" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeeDepartment" class="control-label"></label>
+                <input asp-for="EmployeeDepartment" class="form-control" />
+                <span asp-validation-for="EmployeeDepartment" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeeSalary" class="control-label"></label>
+                <input asp-for="EmployeeSalary" class="form-control" />
+                <span asp-validation-for="EmployeeSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeeNIDNumber" class="control-label"></label>
+                <input asp-for="EmployeeNIDNumber" class="form-control" />
+                <span asp-validation-for="EmployeeNIDNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeeMobileNumber" class="control-label"></label>
+                <input asp-for="EmployeeMobileNumber" class="form-control" />
+                <span asp-validation-for="EmployeeMobileNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeeFathersName" class="control-label"></label>
+                <input asp-for="EmployeeFathersName" class="form-control" />
+                <span asp-validation-for="EmployeeFathersName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeeMothersName" class="control-label"></label>
+                <input asp-for="EmployeeMothersName" class="form-control" />
+                <span asp-validation-for="EmployeeMothersName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeeBirthDate" class="control-label"></label>
+                <input asp-for="EmployeeBirthDate" class="form-control" />
+                <span asp-validation-for="EmployeeBirthDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

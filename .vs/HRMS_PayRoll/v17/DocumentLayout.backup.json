@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84C9C2E6-9043-4090-91BD-C7836535B4CB}|HRMS_Payroll.API\\HRMS_Payroll.API.csproj|c:\\users\\misbaul\\source\\repos\\hrms_payroll\\hrms_payroll.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C9C2E6-9043-4090-91BD-C7836535B4CB}|HRMS_Payroll.API\\HRMS_Payroll.API.csproj|solutionrelative:hrms_payroll.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C9C2E6-9043-4090-91BD-C7836535B4CB}|HRMS_Payroll.API\\HRMS_Payroll.API.csproj|c:\\users\\misbaul\\source\\repos\\hrms_payroll\\hrms_payroll.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C9C2E6-9043-4090-91BD-C7836535B4CB}|HRMS_Payroll.API\\HRMS_Payroll.API.csproj|solutionrelative:hrms_payroll.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C9C2E6-9043-4090-91BD-C7836535B4CB}|HRMS_Payroll.API\\HRMS_Payroll.API.csproj|c:\\users\\misbaul\\source\\repos\\hrms_payroll\\hrms_payroll.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C9C2E6-9043-4090-91BD-C7836535B4CB}|HRMS_Payroll.API\\HRMS_Payroll.API.csproj|solutionrelative:hrms_payroll.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403BCD77-7180-469D-9479-3E12167FDB6D}|HRMS_PayRoll.Handler\\HRMS_PayRoll.Handler.csproj|c:\\users\\misbaul\\source\\repos\\hrms_payroll\\hrms_payroll.handler\\services\\implementation\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403BCD77-7180-469D-9479-3E12167FDB6D}|HRMS_PayRoll.Handler\\HRMS_PayRoll.Handler.csproj|solutionrelative:hrms_payroll.handler\\services\\implementation\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936F9FF4-7ECD-4BB8-AAC7-0D69BAAFA2BC}|HRMS_PayRoll.AggregateRoot\\HRMS_PayRoll.AggregateRoot.csproj|c:\\users\\misbaul\\source\\repos\\hrms_payroll\\hrms_payroll.aggregateroot\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936F9FF4-7ECD-4BB8-AAC7-0D69BAAFA2BC}|HRMS_PayRoll.AggregateRoot\\HRMS_PayRoll.AggregateRoot.csproj|solutionrelative:hrms_payroll.aggregateroot\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936F9FF4-7ECD-4BB8-AAC7-0D69BAAFA2BC}|HRMS_PayRoll.AggregateRoot\\HRMS_PayRoll.AggregateRoot.csproj|c:\\users\\misbaul\\source\\repos\\hrms_payroll\\hrms_payroll.aggregateroot\\entities\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936F9FF4-7ECD-4BB8-AAC7-0D69BAAFA2BC}|HRMS_PayRoll.AggregateRoot\\HRMS_PayRoll.AggregateRoot.csproj|solutionrelative:hrms_payroll.aggregateroot\\entities\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936F9FF4-7ECD-4BB8-AAC7-0D69BAAFA2BC}|HRMS_PayRoll.AggregateRoot\\HRMS_PayRoll.AggregateRoot.csproj|c:\\users\\misbaul\\source\\repos\\hrms_payroll\\hrms_payroll.aggregateroot\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936F9FF4-7ECD-4BB8-AAC7-0D69BAAFA2BC}|HRMS_PayRoll.AggregateRoot\\HRMS_PayRoll.AggregateRoot.csproj|solutionrelative:hrms_payroll.aggregateroot\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C9C2E6-9043-4090-91BD-C7836535B4CB}|HRMS_Payroll.API\\HRMS_Payroll.API.csproj|c:\\users\\misbaul\\source\\repos\\hrms_payroll\\hrms_payroll.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84C9C2E6-9043-4090-91BD-C7836535B4CB}|HRMS_Payroll.API\\HRMS_Payroll.API.csproj|solutionrelative:hrms_payroll.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C9C2E6-9043-4090-91BD-C7836535B4CB}|HRMS_Payroll.API\\HRMS_Payroll.API.csproj|c:\\users\\misbaul\\source\\repos\\hrms_payroll\\hrms_payroll.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C9C2E6-9043-4090-91BD-C7836535B4CB}|HRMS_Payroll.API\\HRMS_Payroll.API.csproj|solutionrelative:hrms_payroll.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403BCD77-7180-469D-9479-3E12167FDB6D}|HRMS_PayRoll.Handler\\HRMS_PayRoll.Handler.csproj|c:\\users\\misbaul\\source\\repos\\hrms_payroll\\hrms_payroll.handler\\services\\implementation\\authservicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403BCD77-7180-469D-9479-3E12167FDB6D}|HRMS_PayRoll.Handler\\HRMS_PayRoll.Handler.csproj|solutionrelative:hrms_payroll.handler\\services\\implementation\\authservicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44F95AE-B5F7-46C0-A7DF-674FA5E989E1}|HRMS_PayRoll.Repository\\HRMS_PayRoll.Repository.csproj|c:\\users\\misbaul\\source\\repos\\hrms_payroll\\hrms_payroll.repository\\repositories\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44F95AE-B5F7-46C0-A7DF-674FA5E989E1}|HRMS_PayRoll.Repository\\HRMS_PayRoll.Repository.csproj|solutionrelative:hrms_payroll.repository\\repositories\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403BCD77-7180-469D-9479-3E12167FDB6D}|HRMS_PayRoll.Handler\\HRMS_PayRoll.Handler.csproj|c:\\users\\misbaul\\source\\repos\\hrms_payroll\\hrms_payroll.handler\\services\\abstraction\\iauthservicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403BCD77-7180-469D-9479-3E12167FDB6D}|HRMS_PayRoll.Handler\\HRMS_PayRoll.Handler.csproj|solutionrelative:hrms_payroll.handler\\services\\abstraction\\iauthservicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403BCD77-7180-469D-9479-3E12167FDB6D}|HRMS_PayRoll.Handler\\HRMS_PayRoll.Handler.csproj|c:\\users\\misbaul\\source\\repos\\hrms_payroll\\hrms_payroll.handler\\services\\abstraction\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403BCD77-7180-469D-9479-3E12167FDB6D}|HRMS_PayRoll.Handler\\HRMS_PayRoll.Handler.csproj|solutionrelative:hrms_payroll.handler\\services\\abstraction\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3FB08A-8E8A-4636-AB84-F784279EAFD0}|HRMS_PayRoll.DTO\\HRMS_PayRoll.DTO.csproj|c:\\users\\misbaul\\source\\repos\\hrms_payroll\\hrms_payroll.dto\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3FB08A-8E8A-4636-AB84-F784279EAFD0}|HRMS_PayRoll.DTO\\HRMS_PayRoll.DTO.csproj|solutionrelative:hrms_payroll.dto\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3FB08A-8E8A-4636-AB84-F784279EAFD0}|HRMS_PayRoll.DTO\\HRMS_PayRoll.DTO.csproj|c:\\users\\misbaul\\source\\repos\\hrms_payroll\\hrms_payroll.dto\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3FB08A-8E8A-4636-AB84-F784279EAFD0}|HRMS_PayRoll.DTO\\HRMS_PayRoll.DTO.csproj|solutionrelative:hrms_payroll.dto\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_Payroll.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "HRMS_Payroll.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_Payroll.API\\WeatherForecast.cs",
+              "RelativeToolTip": "HRMS_Payroll.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T06:29:56.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Payroll.cs",
+              "DocumentMoniker": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.AggregateRoot\\Entities\\Payroll.cs",
+              "RelativeDocumentMoniker": "HRMS_PayRoll.AggregateRoot\\Entities\\Payroll.cs",
+              "ToolTip": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.AggregateRoot\\Entities\\Payroll.cs",
+              "RelativeToolTip": "HRMS_PayRoll.AggregateRoot\\Entities\\Payroll.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:28:52.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_Payroll.API\\Program.cs",
+              "RelativeDocumentMoniker": "HRMS_Payroll.API\\Program.cs",
+              "ToolTip": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_Payroll.API\\Program.cs",
+              "RelativeToolTip": "HRMS_Payroll.API\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:37:50.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_Payroll.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "HRMS_Payroll.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_Payroll.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "HRMS_Payroll.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:35:25.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_Payroll.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "HRMS_Payroll.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_Payroll.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "HRMS_Payroll.API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:33:53.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.Handler\\Services\\Implementation\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "HRMS_PayRoll.Handler\\Services\\Implementation\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.Handler\\Services\\Implementation\\EmployeeService.cs",
+              "RelativeToolTip": "HRMS_PayRoll.Handler\\Services\\Implementation\\EmployeeService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:25:33.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.AggregateRoot\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "HRMS_PayRoll.AggregateRoot\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.AggregateRoot\\Entities\\Employee.cs",
+              "RelativeToolTip": "HRMS_PayRoll.AggregateRoot\\Entities\\Employee.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:14:55.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.Repository\\Repositories\\Implementation\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "HRMS_PayRoll.Repository\\Repositories\\Implementation\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.Repository\\Repositories\\Implementation\\GenericRepository.cs",
+              "RelativeToolTip": "HRMS_PayRoll.Repository\\Repositories\\Implementation\\GenericRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T08:33:24.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthServiceHandler.cs",
+              "DocumentMoniker": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.Handler\\Services\\Implementation\\AuthServiceHandler.cs",
+              "RelativeDocumentMoniker": "HRMS_PayRoll.Handler\\Services\\Implementation\\AuthServiceHandler.cs",
+              "ToolTip": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.Handler\\Services\\Implementation\\AuthServiceHandler.cs",
+              "RelativeToolTip": "HRMS_PayRoll.Handler\\Services\\Implementation\\AuthServiceHandler.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwB4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T06:18:37.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LogInDTO.cs",
+              "DocumentMoniker": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.DTO\\DTOs\\LogInDTO.cs",
+              "RelativeDocumentMoniker": "HRMS_PayRoll.DTO\\DTOs\\LogInDTO.cs",
+              "ToolTip": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.DTO\\DTOs\\LogInDTO.cs",
+              "RelativeToolTip": "HRMS_PayRoll.DTO\\DTOs\\LogInDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T06:17:32.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.DTO\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "HRMS_PayRoll.DTO\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.DTO\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "HRMS_PayRoll.DTO\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T06:15:31.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.Handler\\Services\\Abstraction\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "HRMS_PayRoll.Handler\\Services\\Abstraction\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.Handler\\Services\\Abstraction\\IEmployeeService.cs",
+              "RelativeToolTip": "HRMS_PayRoll.Handler\\Services\\Abstraction\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T06:13:41.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthServiceHandler.cs",
+              "DocumentMoniker": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.Handler\\Services\\Abstraction\\IAuthServiceHandler.cs",
+              "RelativeDocumentMoniker": "HRMS_PayRoll.Handler\\Services\\Abstraction\\IAuthServiceHandler.cs",
+              "ToolTip": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.Handler\\Services\\Abstraction\\IAuthServiceHandler.cs",
+              "RelativeToolTip": "HRMS_PayRoll.Handler\\Services\\Abstraction\\IAuthServiceHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T06:11:48.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_Payroll.API\\appsettings.json",
+              "RelativeDocumentMoniker": "HRMS_Payroll.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_Payroll.API\\appsettings.json",
+              "RelativeToolTip": "HRMS_Payroll.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-22T05:21:44.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.AggregateRoot\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "HRMS_PayRoll.AggregateRoot\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\misbaul\\source\\repos\\HRMS_PayRoll\\HRMS_PayRoll.AggregateRoot\\Entities\\User.cs",
+              "RelativeToolTip": "HRMS_PayRoll.AggregateRoot\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:56:36.281Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
